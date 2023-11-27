@@ -12,6 +12,8 @@ Prerequisites
 
 Ensure you have the following dependencies installed:
 
+use: pip install -r requirements.txt
+
     Python
     Pytube
     CustomTkinter
