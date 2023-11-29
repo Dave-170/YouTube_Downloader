@@ -30,4 +30,7 @@ Usage
 Screenshots
 
 ![image](https://github.com/Dave-170/YouTube_Downloader/assets/74973997/f87d27fb-73d0-40d8-ae73-ea6b90ea1268)
+
+![image](https://github.com/Dave-170/YouTube_Downloader/assets/74973997/b9202483-1126-4eea-ac9b-b15d4049b3e5)
+
 ![image](https://github.com/Dave-170/YouTube_Downloader/assets/74973997/66958325-2f70-43e7-90d8-a7f6042ee7b9)
